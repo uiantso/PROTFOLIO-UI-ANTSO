@@ -317,7 +317,6 @@ h4 {
 .s-img {
     width: 150px;
     height: 150px;
-    background-color: #eaeaea;
 }
 
 .s-img2 {
@@ -347,6 +346,7 @@ h4 {
     gap: 2vw;
     border-left: 1px solid var(--border-color);
     padding-left: 2vw;
+    align-items: center;
 }
 
 .partner-logo {
@@ -355,6 +355,7 @@ h4 {
     font-size: 1.5rem;
     text-align: center;
     padding: 2rem 0;
+    width: 70%;
 }
 
 /* --- REVIEWS --- */
